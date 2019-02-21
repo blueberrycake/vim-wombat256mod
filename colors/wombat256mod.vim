@@ -18,6 +18,8 @@ endif
 
 let g:colors_name = "wombat256mod"
 
+let g:CursorLineInsertBgColor = '#003D3D'
+let g:CursorLineNormalBgColor = '#2D2D2D'
 
 " General colors
 hi Normal		ctermfg=254		ctermbg=234		cterm=none		guifg=#f6f3e8	guibg=#242424	gui=none
